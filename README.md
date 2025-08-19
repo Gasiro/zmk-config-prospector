@@ -9,7 +9,7 @@
 
 ## 🔍 **What is Prospector?**
 
-**Prospector** is a community-developed hardware platform designed for ZMK keyboard enhancement and monitoring. Originally created as a universal dongle solution, Prospector has evolved into multiple specialized modes:
+**Prospector** is a community-developed hardware platform designed for ZMK keyboard enhancement and monitoring. Originally created as a universal dongle solution, Prospector has evolved into multiple specialized modes :
 
 - **🎯 Original Prospector**: Universal ZMK keyboard dongle for USB/wireless connectivity
   - **Original Project**: [prospector](https://github.com/carrefinho/prospector) by carrefinho
